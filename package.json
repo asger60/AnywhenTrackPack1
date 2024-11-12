@@ -1,0 +1,24 @@
+{
+  "name": "com.floppyclub.anywhentrackpack1",
+  "version": "1.0.0",
+  "displayName": "Anywhen Track Pack 1",
+  "description": "Pack of tracks made for the Anywhen music system",
+  "unity": "2022.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://floppy.club/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    
+  },
+  "keywords": [
+    "Music",
+    "Procedual",
+    "Audio"
+  ],
+  "author": {
+    "name": "Floppy Club",
+    "email": "asger@floppy.club",
+    "url": "https://floppy.club"
+  }
+}
